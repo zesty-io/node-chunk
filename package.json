@@ -1,0 +1,19 @@
+{
+  "name": "node-chunk",
+  "version": "1.0.0",
+  "description": "Chunks togther a response stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zesty-io/node-chunk.git"
+  },
+  "author": "Stuart Runyan",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/zesty-io/node-chunk/issues"
+  },
+  "homepage": "https://github.com/zesty-io/node-chunk#readme"
+}
